@@ -2,12 +2,13 @@
 This class provides resources for implementing an interface that shows the device's battery level and status.
 
 ## Script settings in Inspector
-![](../master/Example.png)
+![](../master/Images/Example.png)
 
 ## Steps for use
 1. Attach the **Battery.cs** script to any **GameObject** in the Scene.
 
 2. **Battery Image:** Attach an Image component to the battery image.
+![](../master/Images/BatteryImage.png)
 
 3. **Fill Level Image:** Attach an Image component to work as a battery level.
 
