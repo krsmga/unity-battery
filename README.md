@@ -8,7 +8,7 @@ This class provides resources for implementing an interface that shows the devic
 1. Attach the **Battery.cs** script to any **GameObject** in the Scene.
 
 2. **Battery Image:** Attach an Image component to the battery image.
-![image](../master/Images/BatteryImage.png){:height="50%" width="50%"}
+![image](../master/Images/BatteryImage.png =250x250)
 
 3. **Fill Level Image:** Attach an Image component to work as a battery level.
 
