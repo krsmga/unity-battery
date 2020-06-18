@@ -4,7 +4,7 @@
  * @create date 2020-06-15 18:41:27
  * @modify date 2020-06-16 18:51:43
  * @desc This class provides resources for implementing an interface that shows the device's battery level and status.
- * @github https://github.com/krsmga
+ * @github https://github.com/krsmga/Battery
  */
 
 using System.Collections;
