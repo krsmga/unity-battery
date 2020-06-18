@@ -5,16 +5,14 @@ This class provides resources for implementing an interface that shows the devic
 ![](../master/Example.png)
 
 ## Steps for use
-1. Attach the **LoadScene.cs** script to any **GameObject** in the Scene.
+1. Attach the **Battery.cs** script to any **GameObject** in the Scene.
 
-2. **On Start:** if 'true' starts loading the scene in the Start () method.
+2. **Battery Image:** Attach an Image component to the battery image.
 
-3. **Scene Name:** name of the scene to be called.
+3. **Fill Level Image:** Attach an Image component to work as a battery level.
 
-4. **Async Load:** starts loading the scene asynchronously.
+4. For the colors we have 3 color levels, Normal, Attention and Alert.
 
-5. **Wait In Load:** adjusts a time in seconds during the charge cycle.
+5. In tests you can use to test the feature with the Editor running.
 
-6. **Progress Bar:** allows you to attach a Slider component to show the scene loading process.
 
-7. **Wait After load:** if 'true', it waits to execute the Execute() method to finish loading the scene.
